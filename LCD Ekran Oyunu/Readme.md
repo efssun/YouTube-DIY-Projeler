@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/101178401/179976611-0dd04c7e-945c-40c9-8b2f-c768aec0f6d8.png)
 
-**Projede kullandığımız malzemeler:**
+### **Projede kullandığımız malzemeler:** ###
 
 **Arduino Nano;**
 
