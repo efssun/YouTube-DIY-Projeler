@@ -42,3 +42,6 @@ Kesme Matı: http://bit.ly/2P9JL1t
 Makaron: http://bit.ly/2Mv5iVg 
 
 Montaj Kablosu: http://bit.ly/2P8hs3q
+
+[Projenin videosuna erişmek için tıklayınız.](https://www.youtube.com/watch?v=TpqcEJ4PdEs)
+
